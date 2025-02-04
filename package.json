@@ -1,0 +1,23 @@
+{
+  "name": "concurrency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/04Aditya27/Concurrency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/04Aditya27/Concurrency/issues"
+  },
+  "homepage": "https://github.com/04Aditya27/Concurrency#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
